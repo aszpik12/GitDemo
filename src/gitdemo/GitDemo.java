@@ -4,7 +4,7 @@ package gitdemo;
 public class GitDemo {
 
     public static void main(String[] args) {
-        metodus();
+        //metodus();
         for (int i = 0; i < 10; i++) {
             
         }
@@ -15,7 +15,7 @@ public class GitDemo {
         }
     }
 
-    private static void metodus() {
+    private void metodus() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     
